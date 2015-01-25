@@ -1,0 +1,13 @@
+body {
+  background: black;
+  color: white;
+}
+
+#my-canvas {
+  background: #eee;
+  border: 3px solid blue;
+}
+#grid {
+  background: #eee;
+  border: 3px solid blue;
+}
